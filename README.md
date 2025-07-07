@@ -4,7 +4,7 @@
 ⚡ Passionate about Power Systems, Control Theory, and Intelligent Algorithms  
 🧠 Exploring the intersection of classical control and modern Reinforcement Learning  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/emanuele-debianchi/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/emanuele-de-bianchi/)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=e-debianchi&layout=compact&theme=default)](https://github.com/e-debianchi)
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=e-debianchi&show_icons=true&theme=default)](https://github.com/e-debianchi)
 
